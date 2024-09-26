@@ -1,0 +1,17 @@
+
+@import "~antd/dist/antd.css";
+
+.App{
+  margin: 100px 200px;
+}
+
+.App h1{
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.table{
+  border-radius: 20px;
+}
